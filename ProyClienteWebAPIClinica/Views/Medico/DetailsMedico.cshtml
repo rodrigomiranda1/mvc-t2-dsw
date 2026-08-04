@@ -1,0 +1,67 @@
+﻿@model ProyClienteWebAPIClinica.Models.Medico
+@{
+    ViewBag.Title = "DetailsMedico";
+}
+
+<h2>Details Medico</h2>
+
+<div>
+    <h4>Medico</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Codmed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Codmed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nommed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nommed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AnioColegio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AnioColegio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Codesp)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Codesp)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Coddis)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Coddis)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Eliminado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Eliminado)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "EditMedico", 
+         new { id = Model.Codmed }, new { @class = "btn btn-success" }) |
+    @Html.ActionLink("Regresar", "IndexMedico", 
+         null, new { @class = "btn btn-warning" })
+</p>

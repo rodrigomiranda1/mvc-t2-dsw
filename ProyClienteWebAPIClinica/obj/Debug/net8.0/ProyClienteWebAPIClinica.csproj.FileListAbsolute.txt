@@ -1,0 +1,74 @@
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\appsettings.Development.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\appsettings.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.staticwebassets.runtime.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.staticwebassets.endpoints.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.exe
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.deps.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.runtimeconfig.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.dll
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.pdb
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.AssemblyInfoInputs.cache
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.AssemblyInfo.cs
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.csproj.CoreCompileInputs.cache
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.MvcApplicationPartsAssemblyInfo.cache
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.RazorAssemblyInfo.cache
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.RazorAssemblyInfo.cs
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\scopedcss\bundle\ProyClienteWebAPIClinica.styles.css
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\scopedcss\projectbundle\ProyClienteWebAPIClinica.bundle.scp.css
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.build.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.development.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\swae.build.ex.cache
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.dll
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\refint\ProyClienteWebAPIClinica.dll
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.pdb
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.genruntimeconfig.cache
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ref\ProyClienteWebAPIClinica.dll
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.csproj.AssemblyReference.cache
+D:\DSW1_T5AL\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClie.63DD87C7.Up2Date
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\appsettings.Development.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\appsettings.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.staticwebassets.endpoints.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.staticwebassets.runtime.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.exe
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.deps.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.runtimeconfig.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.dll
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\ProyClienteWebAPIClinica.pdb
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.csproj.AssemblyReference.cache
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.AssemblyInfoInputs.cache
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.AssemblyInfo.cs
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.csproj.CoreCompileInputs.cache
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.MvcApplicationPartsAssemblyInfo.cache
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.RazorAssemblyInfo.cache
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.RazorAssemblyInfo.cs
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\scopedcss\bundle\ProyClienteWebAPIClinica.styles.css
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\scopedcss\projectbundle\ProyClienteWebAPIClinica.bundle.scp.css
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.build.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.development.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\swae.build.ex.cache
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClie.63DD87C7.Up2Date
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.dll
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\refint\ProyClienteWebAPIClinica.dll
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.pdb
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ProyClienteWebAPIClinica.genruntimeconfig.cache
+F:\Desarrollo de servicios web 1\Sesion_08 - 2026\ClienteWebAPIClinica\ProyClienteWebAPIClinica\obj\Debug\net8.0\ref\ProyClienteWebAPIClinica.dll

@@ -1,0 +1,83 @@
+﻿@model ProyClienteWebAPIClinica.Models.Medico
+
+@{
+    ViewBag.Title = "Delete Medico";
+}
+
+<h2>Delete Medico</h2>
+
+<h3>Estás seguro de Eliminar al Medico?</h3>
+
+<div>
+    <h4>Medico</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Codmed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Codmed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nommed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nommed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AnioColegio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AnioColegio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Codesp)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Codesp)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Coddis)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Coddis)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Eliminado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Eliminado)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" 
+                   class="btn btn-danger"
+                   onclick=
+                   "return confirm('Seguro de Eliminar al Medico?')"
+                   /> |
+            @Html.ActionLink("Regresar", "IndexMedico", null,
+                             new { @class = "btn btn-warning"} )
+        </div>
+    }
+</div>
+
+<br/>
+<div class="alert alert-info">
+    <h4><strong>@ViewBag.mensaje</strong></h4>
+</div>

@@ -1,0 +1,73 @@
+﻿@model IEnumerable<ProyClienteWebAPIClinica.Models.Medico>
+
+@{
+    ViewData["Title"] = "Medicos";
+}
+
+<h1>Lista de Medicos</h1>
+
+@if (TempData["mensaje"] != null)
+{
+    <div class="alert alert-info">
+        <h4><strong>@TempData["mensaje"]</strong></h4>
+    </div>
+}
+
+<p>
+    <a asp-action="CreateMedico">Nuevo Medico</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Codmed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nommed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AnioColegio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Codesp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Coddis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Eliminado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Codmed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nommed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AnioColegio)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Codesp)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Coddis)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Eliminado)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "EditMedico", new { id = item.Codmed }) |
+                    @Html.ActionLink("Detalle", "DetailsMedico", new { id = item.Codmed }) |
+                    @Html.ActionLink("Eliminar", "DeleteMedico", new { id = item.Codmed })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

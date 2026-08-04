@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\controllers\\medicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\views\\medico\\deletemedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\views\\medico\\deletemedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\views\\medico\\detailsmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\views\\medico\\detailsmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\views\\medico\\indexmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\views\\medico\\indexmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\views\\medico\\createmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\views\\medico\\createmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|f:\\desarrollo de servicios web 1\\sesion_08 - 2026\\clientewebapiclinica\\proyclientewebapiclinica\\views\\medico\\editmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16CBB10-AFF8-9E34-B8FC-508BFE0B0B93}|ProyClienteWebAPIClinica\\ProyClienteWebAPIClinica.csproj|solutionrelative:proyclientewebapiclinica\\views\\medico\\editmedico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicoController.cs",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Controllers\\MedicoController.cs",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\Controllers\\MedicoController.cs",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Controllers\\MedicoController.cs",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\Controllers\\MedicoController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAAMcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T01:19:21.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateMedico.cshtml",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\CreateMedico.cshtml",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\Views\\Medico\\CreateMedico.cshtml",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\CreateMedico.cshtml",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\Views\\Medico\\CreateMedico.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T02:26:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsMedico.cshtml",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\DetailsMedico.cshtml",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\Views\\Medico\\DetailsMedico.cshtml",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\DetailsMedico.cshtml",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\Views\\Medico\\DetailsMedico.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T01:48:05.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteMedico.cshtml",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\DeleteMedico.cshtml",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\Views\\Medico\\DeleteMedico.cshtml",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\DeleteMedico.cshtml",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\Views\\Medico\\DeleteMedico.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T02:26:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\appsettings.json",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\appsettings.json",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-03T22:00:16.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Program.cs",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\Program.cs",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Program.cs",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T22:06:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndexMedico.cshtml",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\IndexMedico.cshtml",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\Views\\Medico\\IndexMedico.cshtml",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\IndexMedico.cshtml",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\Views\\Medico\\IndexMedico.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T01:26:53.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditMedico.cshtml",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\EditMedico.cshtml",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\Views\\Medico\\EditMedico.cshtml",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Views\\Medico\\EditMedico.cshtml",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\Views\\Medico\\EditMedico.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T02:26:43.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\Controllers\\HomeController1.cs",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\Controllers\\HomeController1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T00:55:39.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "ProyClienteWebAPIClinica\\Models\\Medico.cs",
+              "ToolTip": "F:\\Desarrollo de servicios web 1\\Sesion_08 - 2026\\ClienteWebAPIClinica\\ProyClienteWebAPIClinica\\Models\\Medico.cs",
+              "RelativeToolTip": "ProyClienteWebAPIClinica\\Models\\Medico.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswBoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T00:27:20.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
